@@ -5,7 +5,7 @@ This week we will practice how to do geocoding, spatial joins and nearest neighb
 In this exercise, we will work with a practical case: the goal is to **find out how many people live within 1.5 km (Euclidian) distance from big shopping centers in Helsinki Region**, and which of those shopping centers is closest to your home and work location (Problems 1-3). In addition, you will figure out the closes shopping center from your home and work locations (Problem 4). 
 
 
-- **Exercise 3 is due by Wednesday the 20th of November at 4pm** (day before the next practical session).
+- **Exercise 3 is due by Wednesday the 25th of November at 17:00** (day before the next practical session).
 
 
 - Hints will be added [here](https://automating-gis-processes.github.io/site/lessons/L3/exercise-3.html) if needed. Remember also to ask for help if our Slack channel!
